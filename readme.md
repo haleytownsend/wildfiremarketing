@@ -1,8 +1,9 @@
 [ ] Update logo file
-
+[ ] Different color font on nav bar
 
 Icons https://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website
 
+Digital Team is free responsive Bootstrap v3.3.5 layout from http://www.tooplate.com. Images are from http://pixabay.com
 
 V1.0
   [ ] Navigation
@@ -50,6 +51,7 @@ V2.0
   [ ] Instagram feed
   [ ] Send "Contact" message directly to email
   [ ] Add horizontal scroll to section 3 with the girls' pictures
+  [ ] Subscribe to our updates
 
 V3.0
   [ ] Girls can leave their write ups for internal review
